@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🖥️ Dev Back-End 
-- 🌱 Java | Spring boot | REST | Banco de dados | Microservices | API | Spring MVC | JPA
+- 🖥️ Dev Full Stack - em desenvolvimento 
+- 🌱 Java | Spring boot | REST | Banco de dados | Microservices | API | Spring MVC | JavaScript
 
 ## Tecnologias
 
